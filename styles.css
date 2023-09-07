@@ -13,6 +13,9 @@ h4{
 h1{
     font-weight: bold;
 }
+h5{
+    text-align: center;
+}
 header {
     background-color: rgb(1, 1, 1, 50%);
     color: white;
